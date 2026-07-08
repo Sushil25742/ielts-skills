@@ -16,6 +16,7 @@ This repository includes four distinct Claude Code Skills that together form a l
 | `/ielts-speaking` | Generates universal stories to cover the vast majority of Part 2 speaking topics. | "Speaking materials", "Part 2 prep" |
 
 **Key Features:**
+
 - **Stateless:** Does not save or write to local files. Every conversation is independent.
 - **Zero Dependencies:** Uses pure Markdown prompts. No need for npm, Python, or a database.
 - **Bilingual Interface:** Built to handle diverse language interactions while maintaining English terminology for IELTS concepts.
