@@ -1,10 +1,10 @@
 ---
 name: ielts-speaking
 description: |
-	IELTS speaking material factory. Topic grouping + universal story generation + Part 3 prediction + high-scoring expressions.
-	Triggers: /ielts-speaking, "speaking materials", "topic grouping", "universal stories", "Part 2 prep"
+  IELTS speaking material factory. Topic grouping + universal story generation + Part 3 prediction + high-scoring expressions.
+  Triggers: /ielts-speaking, "speaking materials", "topic grouping", "universal stories", "Part 2 prep"
 metadata:
-	version: 1.0.0
+  version: 1.0.0
 ---
 
 # IELTS Speaking — Speaking Material Factory

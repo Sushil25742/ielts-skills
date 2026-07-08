@@ -1,10 +1,10 @@
 ---
 name: ielts
 description: |
-	IELTS prep AI coach system entry. Routes to writing / reading / speaking training.
-	Triggers: /ielts, "I want to prepare for IELTS", "How to prepare for IELTS", "IELTS"
+  IELTS prep AI coach system entry. Routes to writing / reading / speaking training.
+  Triggers: /ielts, "I want to prepare for IELTS", "How to prepare for IELTS", "IELTS"
 metadata:
-	version: 1.0.0
+  version: 1.0.0
 ---
 
 # IELTS — IELTS Prep AI Coach System

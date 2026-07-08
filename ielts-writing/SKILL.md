@@ -1,10 +1,10 @@
 ---
 name: ielts-writing
 description: |
-	IELTS writing correction coach. Four-dimension scoring + sentence-level annotations + rewriting comparison + prompt analysis.
-	Triggers: /ielts-writing, "correct my essay", "look at this essay", "analyze prompt", "writing practice"
+  IELTS writing correction coach. Four-dimension scoring + sentence-level annotations + rewriting comparison + prompt analysis.
+  Triggers: /ielts-writing, "correct my essay", "look at this essay", "analyze prompt", "writing practice"
 metadata:
-	version: 1.0.0
+  version: 1.0.0
 ---
 
 # IELTS Writing — IELTS Writing Correction Coach

@@ -1,10 +1,10 @@
 ---
 name: ielts-reading
 description: |
-	IELTS reading intensive coach. Synonym replacement extraction + T/F/NG logic breakdown + paragraph structure analysis + mistake diagnosis.
-	Triggers: /ielts-reading, "analyze reading", "why is this wrong", "synonym replacement", "reading practice"
+  IELTS reading intensive coach. Synonym replacement extraction + T/F/NG logic breakdown + paragraph structure analysis + mistake diagnosis.
+  Triggers: /ielts-reading, "analyze reading", "why is this wrong", "synonym replacement", "reading practice"
 metadata:
-	version: 1.0.0
+  version: 1.0.0
 ---
 
 # IELTS Reading — Intensive Reading Coach
