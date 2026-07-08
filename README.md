@@ -112,3 +112,4 @@ ielts-claude-skills/
 ├── ielts-reading/SKILL.md      # Reading analysis module
 └── ielts-speaking/SKILL.md     # Speaking material generator
 ```
+"Inspired by the original Chinese version by YANZHANLIN"
